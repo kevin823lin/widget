@@ -1,0 +1,2 @@
+data modify storage kill help set value {"text":'{"text":"點此自殺","clickEvent":{"action":"run_command","value":"/trigger kill set -1"},"color":"green"}'}
+data modify storage kill help set value {"text":'[{"text":"點此","clickEvent":{"action":"run_command","value":"/trigger kill set -1"},"hoverEvent":{"action":"show_text","value":"/trigger kill set -1"},"color":"green"},{"text":"或輸入「/trigger kill set -1」來自殺","color":"white"}]'}

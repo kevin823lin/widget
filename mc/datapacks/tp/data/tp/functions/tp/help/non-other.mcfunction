@@ -1,0 +1,1 @@
+tellraw @s [{"storage":"tp","nbt":"help_fail.text","interpret": true}]

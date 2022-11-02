@@ -1,0 +1,1 @@
+tellraw @s [{"storage":"kill","nbt":"help.text","interpret": true}]
